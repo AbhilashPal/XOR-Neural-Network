@@ -1,5 +1,8 @@
 # XOR-Neural-Network
 
-The working file is the xor.py
-The not working file is the ipython nb. If anyone can explain what's wrong with it, I promise a treat in
-Chennai or Kolkata.
+The XOR NNs successfully implemented so far are using :
+  1> Numpy
+  2> Keras
+ 
+ Also a network using numpy is not working(Present in the ipython nb)
+If anyone can help me with it, I promise a treat in Chennai or Kolkata.
